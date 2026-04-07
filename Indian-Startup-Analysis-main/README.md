@@ -57,7 +57,7 @@ To run this application locally, you need to have Python and the necessary libra
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/Panchalparth471/Indian-Startup-Analysis.git
+    git clone https://github.com/snehnada123/Indian-Startup-Analysis.git
     cd Indian-Startup-Analysis
     ```
 
